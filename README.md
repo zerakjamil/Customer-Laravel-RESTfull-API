@@ -41,10 +41,6 @@ This project is a Laravel-based RESTful API for managing customers and their inv
     - Copy the `.env.example` file to `.env`
     - Update the `.env` file with your database credentials and other configurations
 
-4. **Generate application key**
-    ```sh
-    php artisan key:generate
-    ```
 
 ## Running the Project
 1. **Run database migrations and seeders**
