@@ -28,8 +28,8 @@ This project is a Laravel-based RESTful API for managing customers and their inv
 ## Installation
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/zerakjamil/Customer-Laravel-RESTfull-API.git
+    cd Customer-Laravel-RESTfull-API
     ```
 
 2. **Install dependencies**
